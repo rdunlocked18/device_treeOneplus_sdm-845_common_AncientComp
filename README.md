@@ -8,20 +8,28 @@ Hi! This is a Common Device Tree Snapdragon 845
 
 # What Works
 
-ROM functions - Working for Tree
-Boot
-Wifi
-Hotspot works
-Op recorder works. ( It's best ) 
-Gps works
-Camera works. (AOSP)
-Gcam works.
-Bluetooth works
+ROM functions - Working for Tree  
+
+Boot  
+
+Wifi  
+
+Hotspot works   
+
+Op recorder works. ( It's best )   
+
+Gps works  
+
+Camera works. (AOSP)  
+
+Gcam works.  
+
+Bluetooth works  
 
 
 ## What Does not !
 
-Sim Cards 
-FOD
+Sim Cards   
+FOD  
 
 
